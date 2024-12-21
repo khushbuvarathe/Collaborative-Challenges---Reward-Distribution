@@ -10,6 +10,8 @@ The project is powered by smart contracts, ensuring transparency, fairness, and 
 
 ## Contract Address
 0xB79b1823bf3d5365C93F37692318f0B91Ef512f1
+![image](https://github.com/user-attachments/assets/5146ae30-c2c4-483e-bab8-23c0b2160fe6)
+
 
 ## Project Vision
 The vision of Collaborative Challenges is to provide an automated and secure way to reward collaborative work. Whether you're working on coding challenges, creative tasks, or other team-based goals, this platform will ensure that everyone is compensated fairly based on their participation.
